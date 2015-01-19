@@ -48,7 +48,7 @@ li {
 }
 
 .nav__item {
-	display: inline;
+	display: block;
 	padding: 20px;
 }
 
@@ -71,6 +71,7 @@ li {
 
 .main__headline {
 	text-align: center;
+	margin: 0;
 }
 
 .main__intro {
