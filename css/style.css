@@ -77,3 +77,10 @@ li {
 .main__intro {
 	padding-bottom: 30px;
 }
+
+
+/* Syllabus */
+
+.syllabus__last-p {
+	margin-bottom: 30px;
+}
