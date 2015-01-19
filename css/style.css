@@ -84,3 +84,9 @@ li {
 .syllabus__last-p {
 	margin-bottom: 30px;
 }
+
+/* Assignments */
+
+.assign__date {
+	display: block;
+}
