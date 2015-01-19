@@ -1,0 +1,73 @@
+body {
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #0d223f;
+	margin: 0;
+	background: white;
+}
+
+a,
+a:visited,
+a:focus {
+	color: #ec1c2c;
+	text-decoration: none;
+}
+
+a:hover {
+	border-bottom: 1px solid #ec1c2c;
+}
+
+.anchor {
+	position: relative;
+	top: -60px;
+	display: block;
+}
+
+/* LISTS */
+
+li {
+	padding-bottom: 10px;
+}
+
+/* NAV */
+.nav {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	background: #ec1c2c;
+}
+
+.nav__list {
+	list-style-type: none;
+	padding: 10px;
+	margin: 0;
+}
+
+.nav__item {
+	display: inline;
+	padding: 5px 20px;
+}
+
+.nav a {
+	color: white;
+}
+
+.nav a:hover {
+	border-bottom: 1px solid white;
+}
+
+
+/* MAIN */
+
+main {
+	max-width: 550px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.main__headline {
+	text-align: center;
+}
+
+.main__intro {
+	padding-bottom: 30px;
+}

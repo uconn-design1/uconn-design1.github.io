@@ -1,1 +1,1 @@
-# uconn-design1.github.io
+# Design 1
