@@ -101,3 +101,7 @@ a.is-active:hover {
 	margin-bottom: 30px;
 }
 
+/* Log */
+.log__break {
+	color: #999;
+}
