@@ -81,7 +81,8 @@ li {
 
 /* Syllabus */
 
-.syllabus__last-p {
+.syllabus__last-p,
+.projects__last-p {
 	margin-bottom: 30px;
 }
 
