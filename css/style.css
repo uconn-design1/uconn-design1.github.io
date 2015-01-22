@@ -102,6 +102,6 @@ a.is-active:hover {
 }
 
 /* Log */
-.log__break {
-	color: #999;
+.log__date {
+	margin-top: 2em;
 }
