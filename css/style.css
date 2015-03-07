@@ -105,3 +105,7 @@ a.is-active:hover {
 .log__date {
 	margin-top: 2em;
 }
+
+.skip {
+	text-decoration: line-through;
+}
